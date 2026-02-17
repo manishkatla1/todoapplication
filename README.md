@@ -86,4 +86,4 @@ to demonstrate:
 
 ## 👨‍💻 Author
 
-Bethamsetty Eswar
+Katla Manish
